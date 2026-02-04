@@ -1,4 +1,5 @@
-This is a simple streamlit app that connects to Google's Places and Geocode API. 
+This is a simple streamlit app that connects to Google's Places and Geocode API and returns Places within a certain radius.
+*Places are locations registered in Google Maps
 
 To run this program in your IDE:
 <ul>
